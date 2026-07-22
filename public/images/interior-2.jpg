@@ -1,0 +1,8 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='1920' height='1080' viewBox='0 0 1920 1080'>
+  <rect width='1920' height='1080' fill='#0d0d0d'/>
+  <rect x='1' y='1' width='1918' height='1078' fill='none' stroke='rgba(0,212,255,0.15)' stroke-width='1'/>
+  <line x1='0' y1='0' x2='1920' y2='1080' stroke='rgba(255,255,255,0.04)' stroke-width='1'/>
+  <line x1='1920' y1='0' x2='0' y2='1080' stroke='rgba(255,255,255,0.04)' stroke-width='1'/>
+  <text x='50%' y='45%' font-family='system-ui' font-size='14' fill='rgba(0,212,255,0.5)' text-anchor='middle' letter-spacing='4'>APEX AUTOMOTIVE</text>
+  <text x='50%' y='55%' font-family='system-ui' font-size='11' fill='rgba(255,255,255,0.25)' text-anchor='middle' letter-spacing='2'>McLaren Interior</text>
+</svg>
