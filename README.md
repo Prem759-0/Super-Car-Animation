@@ -3,11 +3,11 @@
 
 ## There is now one problem in this project that my system can't handle the load of this project the project it tooo big so i have no idea i can continue  or not  or tell wait  for any ram update in my pc ?? 
 
-##if your pc or system can handle it then just download a zip of this repo  or clone it and just use ai and tell it to make it in website 
+## if your pc or system can handle it then just download a zip of this repo  or clone it and just use ai and tell it to make it in website 
 
-##for example i have this my last  website [`Movement-Watch`](https://github.com/Prem759-0/Movement-Watch) prompt you can give any ai like Chatgpt or gemini to convert 
+## for example i have this my last  website [`Movement-Watch`](https://github.com/Prem759-0/Movement-Watch) prompt you can give any ai like Chatgpt or gemini to convert 
 
-##according to you preference and this project and  make a working website  this is prompt from that watch website  
+## according to you preference and this project and  make a working website  this is prompt from that watch website  
 
 
 ```bash
