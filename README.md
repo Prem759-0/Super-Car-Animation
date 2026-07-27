@@ -1,5 +1,8 @@
 ## under development  ⚒️
 
+
+## There is now one problem in this project that my system can't handle the load of this project the project it tooo big so i have no idea i can continue  or not  or tell wait  for any ram update in my pc ?? if your pc or system can handle it them just download a zip of this repo  or clone it and just use ai and tell it to make it in website for example i have this my last this website prompt you can give any ai like Chatgpt or gemini to convert according to you preference and make a working website 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
